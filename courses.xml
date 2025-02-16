@@ -1,0 +1,16 @@
+<courses>
+    <course>
+        <name>Web Technologies using HTML & CSS</name>
+        <code>CIE-356TA1</code>
+        <duration>11 Days</duration>
+        <eligibility>Basic Web development Knowledge</eligibility>
+        <fees>500</fees>
+    </course>
+    <course>
+        <name>Web Technologies using JavaScript</name>
+        <code>CIE-356T-A2</code>
+        <duration>40 Hrs</duration>
+        <eligibility>Basic Java Knowledge</eligibility>
+        <fees>1000</fees>
+    </course>
+</courses>
